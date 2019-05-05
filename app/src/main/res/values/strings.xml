@@ -8,15 +8,15 @@
         <item>string_value1</item>
         <item>string_value2</item>
         <item>string_value3</item>
-    </string-array>
+
+
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
 
 
 
-    <item>light</item>
-    <item>amber</item>
-    <item>brown</item>
-
-
+</string-array>
 
 
 </resources>
